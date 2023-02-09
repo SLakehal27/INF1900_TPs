@@ -1,0 +1,1 @@
+delcode.o: delcode.cpp
